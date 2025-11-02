@@ -1,0 +1,201 @@
+fields/key,fields/name,fields/tag/type,rows/Procedure_ID,rows/Procedure_Name,rows/Procedure_Type,rows/Standard_Cost
+0,Procedure_ID,int,1,CT Scan,Emergency,52534.32
+1,Procedure_Name,string,2,Brain MRI,Laboratory,7177.06
+2,Procedure_Type,string,3,Knee Replacement Surgery,Surgical,89313.72
+3,Standard_Cost,decimal,4,Dialysis,Surgical,266411.21
+,,,5,Dialysis,Preventive,3287.57
+,,,6,Knee Replacement Surgery,Laboratory,3017.17
+,,,7,Spinal Surgery,Emergency,65748.08
+,,,8,Allergy Test,Emergency,75990.66
+,,,9,MRI Scan,Preventive,4693.61
+,,,10,Liver Function Test,Therapeutic,36712.96
+,,,11,Spinal Surgery,Preventive,2280.45
+,,,12,Chemotherapy Session,Diagnostic,2174.20
+,,,13,Cholesterol Test,Surgical,172704.62
+,,,14,Colonoscopy,Emergency,31822.91
+,,,15,Liver Function Test,Laboratory,7365.41
+,,,16,Eye Checkup,Preventive,6672.84
+,,,17,Blood Test – Full Profile,Diagnostic,21167.99
+,,,18,Allergy Test,Laboratory,8892.56
+,,,19,Cholesterol Test,Preventive,2716.55
+,,,20,Allergy Test,Emergency,98835.77
+,,,21,Ultrasound Scan,Diagnostic,6699.74
+,,,22,Vaccination (Influenza),Emergency,15293.88
+,,,23,Kidney Ultrasound,Diagnostic,23631.89
+,,,24,Heart Bypass Surgery,Therapeutic,36124.15
+,,,25,Dialysis,Laboratory,6397.83
+,,,26,ENT Examination,Surgical,220287.64
+,,,27,Endoscopy,Preventive,6098.52
+,,,28,Blood Test – Full Profile,Diagnostic,2751.92
+,,,29,Caesarean Section,Diagnostic,15496.44
+,,,30,Prostate Surgery,Laboratory,2302.36
+,,,31,Dental Cleaning,Diagnostic,8597.32
+,,,32,Liver Function Test,Therapeutic,26096.19
+,,,33,Knee Replacement Surgery,Therapeutic,24482.51
+,,,34,MRI Scan,Laboratory,2911.60
+,,,35,Eye Checkup,Surgical,83228.48
+,,,36,Caesarean Section,Preventive,4551.12
+,,,37,Endoscopy,Emergency,35129.58
+,,,38,Physiotherapy Session,Laboratory,5713.69
+,,,39,Heart Bypass Surgery,Emergency,11523.96
+,,,40,Dialysis,Therapeutic,17795.69
+,,,41,Skin Biopsy,Therapeutic,31236.48
+,,,42,Knee Replacement Surgery,Therapeutic,6803.92
+,,,43,Fracture Fixation,Preventive,1681.19
+,,,44,Dialysis,Surgical,238774.96
+,,,45,Heart Bypass Surgery,Surgical,108887.35
+,,,46,Allergy Test,Therapeutic,40209.65
+,,,47,Cataract Surgery,Surgical,42311.92
+,,,48,ECG (Electrocardiogram),Preventive,6114.32
+,,,49,Vaccination (Influenza),Surgical,248605.75
+,,,50,Physiotherapy Session,Laboratory,9599.10
+,,,51,Liver Function Test,Surgical,150562.72
+,,,52,X-Ray – Chest,Surgical,155730.74
+,,,53,Spinal Surgery,Diagnostic,4779.68
+,,,54,Cataract Surgery,Laboratory,6581.17
+,,,55,Colonoscopy,Emergency,86057.04
+,,,56,Ultrasound Scan,Diagnostic,4932.95
+,,,57,CT Scan,Preventive,5979.56
+,,,58,Blood Pressure Check,Preventive,1659.26
+,,,59,Appendectomy,Surgical,203142.93
+,,,60,Endoscopy,Laboratory,8051.84
+,,,61,Thyroid Scan,Therapeutic,31488.57
+,,,62,ECG (Electrocardiogram),Surgical,252090.81
+,,,63,Blood Test – Full Profile,Therapeutic,23621.07
+,,,64,Vaccination (Influenza),Diagnostic,18297.73
+,,,65,Ultrasound Scan,Emergency,26540.23
+,,,66,Caesarean Section,Laboratory,1156.63
+,,,67,ECG (Electrocardiogram),Therapeutic,15447.66
+,,,68,CT Scan,Laboratory,2839.25
+,,,69,Appendectomy,Preventive,4799.22
+,,,70,Skin Biopsy,Surgical,44480.33
+,,,71,Liver Function Test,Emergency,12085.37
+,,,72,Knee Replacement Surgery,Emergency,47598.56
+,,,73,Chemotherapy Session,Therapeutic,14981.78
+,,,74,Kidney Ultrasound,Therapeutic,41349.82
+,,,75,Heart Bypass Surgery,Preventive,2273.70
+,,,76,Liver Function Test,Emergency,81650.42
+,,,77,Endoscopy,Emergency,9892.24
+,,,78,Fracture Fixation,Diagnostic,18041.66
+,,,79,Cataract Surgery,Emergency,71839.31
+,,,80,Blood Pressure Check,Therapeutic,40806.28
+,,,81,Allergy Test,Surgical,108540.87
+,,,82,Ultrasound Scan,Diagnostic,21838.74
+,,,83,Blood Pressure Check,Diagnostic,11482.61
+,,,84,Prostate Surgery,Diagnostic,21252.73
+,,,85,Knee Replacement Surgery,Laboratory,4208.66
+,,,86,Appendectomy,Surgical,69469.72
+,,,87,ENT Examination,Surgical,236446.02
+,,,88,Appendectomy,Laboratory,6444.92
+,,,89,CT Scan,Therapeutic,2190.20
+,,,90,Physiotherapy Session,Emergency,85955.41
+,,,91,Kidney Ultrasound,Emergency,65372.55
+,,,92,Skin Biopsy,Surgical,175695.28
+,,,93,Dialysis,Laboratory,9692.86
+,,,94,Physiotherapy Session,Surgical,47930.19
+,,,95,Dental Cleaning,Therapeutic,16339.18
+,,,96,Dialysis,Laboratory,8798.72
+,,,97,Heart Bypass Surgery,Preventive,2630.49
+,,,98,Ultrasound Scan,Preventive,1149.21
+,,,99,Physiotherapy Session,Laboratory,9390.31
+,,,100,ENT Examination,Surgical,53267.42
+,,,101,Caesarean Section,Emergency,54327.67
+,,,102,Cataract Surgery,Therapeutic,27941.37
+,,,103,Ultrasound Scan,Laboratory,5243.56
+,,,104,MRI Scan,Emergency,56748.19
+,,,105,Dialysis,Preventive,4341.34
+,,,106,Appendectomy,Diagnostic,9176.81
+,,,107,Prostate Surgery,Laboratory,4720.55
+,,,108,ECG (Electrocardiogram),Preventive,3252.73
+,,,109,Knee Replacement Surgery,Emergency,70018.90
+,,,110,Prostate Surgery,Therapeutic,32312.23
+,,,111,X-Ray – Chest,Preventive,7223.30
+,,,112,Knee Replacement Surgery,Diagnostic,9221.94
+,,,113,Vaccination (Influenza),Preventive,3779.12
+,,,114,Physiotherapy Session,Laboratory,3772.36
+,,,115,Eye Checkup,Preventive,3887.06
+,,,116,Cataract Surgery,Surgical,167661.58
+,,,117,Heart Bypass Surgery,Laboratory,6819.40
+,,,118,Ultrasound Scan,Therapeutic,24867.08
+,,,119,Fracture Fixation,Surgical,267790.98
+,,,120,Dialysis,Emergency,40295.24
+,,,121,Spinal Surgery,Diagnostic,3381.89
+,,,122,Brain MRI,Laboratory,3676.56
+,,,123,Dialysis,Diagnostic,5605.68
+,,,124,ENT Examination,Surgical,72285.35
+,,,125,Allergy Test,Therapeutic,10313.90
+,,,126,Appendectomy,Preventive,7810.31
+,,,127,ECG (Electrocardiogram),Surgical,297513.34
+,,,128,ENT Examination,Laboratory,3973.27
+,,,129,Dental Cleaning,Preventive,2076.77
+,,,130,ENT Examination,Emergency,74178.43
+,,,131,Cataract Surgery,Preventive,7967.06
+,,,132,CT Scan,Preventive,2848.99
+,,,133,ENT Examination,Surgical,278365.25
+,,,134,Brain MRI,Emergency,29044.67
+,,,135,Physiotherapy Session,Diagnostic,13755.36
+,,,136,Heart Bypass Surgery,Preventive,3524.21
+,,,137,Blood Test – Full Profile,Laboratory,4573.92
+,,,138,Prostate Surgery,Preventive,2321.04
+,,,139,Prostate Surgery,Preventive,2938.51
+,,,140,Dialysis,Therapeutic,26273.72
+,,,141,X-Ray – Chest,Preventive,7695.06
+,,,142,Caesarean Section,Therapeutic,36205.88
+,,,143,Blood Test – Full Profile,Emergency,39409.37
+,,,144,Spinal Surgery,Surgical,87651.99
+,,,145,Prostate Surgery,Diagnostic,19757.49
+,,,146,Eye Checkup,Laboratory,3835.41
+,,,147,Heart Bypass Surgery,Emergency,94406.10
+,,,148,ECG (Electrocardiogram),Preventive,4132.95
+,,,149,Allergy Test,Diagnostic,18303.15
+,,,150,Heart Bypass Surgery,Surgical,172781.70
+,,,151,Brain MRI,Emergency,86359.15
+,,,152,Fracture Fixation,Diagnostic,6425.59
+,,,153,Brain MRI,Diagnostic,2235.13
+,,,154,Prostate Surgery,Laboratory,5448.14
+,,,155,Chemotherapy Session,Emergency,22647.61
+,,,156,Colonoscopy,Emergency,52227.31
+,,,157,Blood Pressure Check,Surgical,201434.30
+,,,158,Knee Replacement Surgery,Surgical,169513.55
+,,,159,Allergy Test,Preventive,1691.47
+,,,160,Chemotherapy Session,Laboratory,1041.21
+,,,161,Physiotherapy Session,Preventive,5947.34
+,,,162,Allergy Test,Laboratory,8881.82
+,,,163,Blood Test – Full Profile,Laboratory,1557.99
+,,,164,Vaccination (Influenza),Emergency,80870.41
+,,,165,Thyroid Scan,Laboratory,2169.75
+,,,166,Thyroid Scan,Diagnostic,11136.63
+,,,167,Chemotherapy Session,Preventive,2590.14
+,,,168,Knee Replacement Surgery,Laboratory,9505.83
+,,,169,Blood Test – Full Profile,Diagnostic,16035.17
+,,,170,X-Ray – Chest,Laboratory,9230.90
+,,,171,Cholesterol Test,Surgical,229251.57
+,,,172,ENT Examination,Laboratory,6577.59
+,,,173,CT Scan,Therapeutic,25000.00
+,,,174,Spinal Surgery,Laboratory,8138.75
+,,,175,X-Ray – Chest,Laboratory,8413.97
+,,,176,Allergy Test,Laboratory,5991.45
+,,,177,Knee Replacement Surgery,Therapeutic,16380.85
+,,,178,Cholesterol Test,Diagnostic,7932.02
+,,,179,Kidney Ultrasound,Emergency,82625.03
+,,,180,Thyroid Scan,Diagnostic,8636.69
+,,,181,ENT Examination,Surgical,219556.42
+,,,182,Cataract Surgery,Surgical,70661.54
+,,,183,Colonoscopy,Preventive,6951.56
+,,,184,Thyroid Scan,Surgical,61641.65
+,,,185,Fracture Fixation,Diagnostic,23381.16
+,,,186,MRI Scan,Laboratory,4986.31
+,,,187,ENT Examination,Therapeutic,43304.55
+,,,188,Ultrasound Scan,Diagnostic,4754.84
+,,,189,Prostate Surgery,Emergency,16554.62
+,,,190,Skin Biopsy,Preventive,4586.19
+,,,191,Skin Biopsy,Emergency,84644.95
+,,,192,Chemotherapy Session,Diagnostic,8633.84
+,,,193,Cholesterol Test,Diagnostic,6274.80
+,,,194,ECG (Electrocardiogram),Preventive,1257.47
+,,,195,Colonoscopy,Diagnostic,2362.12
+,,,196,CT Scan,Laboratory,5224.82
+,,,197,Chemotherapy Session,Diagnostic,18630.89
+,,,198,Colonoscopy,Surgical,109560.20
+,,,199,Allergy Test,Laboratory,3105.79
+,,,200,Eye Checkup,Laboratory,2558.47
